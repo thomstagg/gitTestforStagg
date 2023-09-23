@@ -9,5 +9,7 @@ int main()
 	std::cout << "test line" << std::endl;
 
 	std::cout << "new line again" << std::endl;
+
+	std::cout << "Farts" << std::endl;
 	return 0;
 }
